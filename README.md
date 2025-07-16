@@ -50,7 +50,7 @@ cd free-resume-maker
 
 3. Install dependencies:
 ```bash
-npm install
+yarn install
 ```
 
 4. Set up environment variables:
@@ -98,4 +98,4 @@ When downloading your resume as PDF, ensure you disable header and footer in you
 
 ---
 
-Made with ❤️ by Zaid for job seekers worldwide!
+Made with ❤️ by Allan for job seekers worldwide!
