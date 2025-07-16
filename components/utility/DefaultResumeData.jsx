@@ -1,114 +1,107 @@
 const DefaultResumeData = {
-  name: "ZAID ADIL",
-  position: "Full Stack Developer",
-  contactInformation: "+91 123456789",
-  email: "hothead01th@gmail.com",
-  address: "Kashmir, India",
-  profilePicture: "",
+  name: "Allan Kipkemei",
+  position: "Software Developer",
+  contactInformation: "+254 712345678", // You can update this
+  email: "allan.kipkemei@example.com", // Replace with your actual
+  address: "Nairobi, Kenya",
+  profilePicture: "", // Add a hosted image URL if you'd like
   socialMedia: [
     {
       socialMedia: "Github",
-      link: "github.com//HOTHEAD01TH",
+      link: "https://github.com/yourusername",
     },
     {
       socialMedia: "LinkedIn",
-      link: "linkedin.com/in/hothead01th",
+      link: "https://linkedin.com/in/yourusername",
     },
     {
       socialMedia: "Website",
-      link: "hothead.vercel.app",
+      link: "https://yourportfolio.com",
     },
   ],
-  summary: "A Full Stack Developer with 3 years of experience in web development, specializing in building dynamic and responsive web applications. Passionate about Web3 and DevOps, with a keen interest in decentralized technologies and automation in the development process. Skilled in both front-end and back-end development, with a focus on delivering efficient and scalable solutions.",
+  summary: "A passionate Software Developer focused on building scalable, secure, and efficient web applications. With a growing interest in security development, Web3, and backend architecture, Allan enjoys building full-stack solutions and experimenting with Go, PostgreSQL, gRPC, and smart contracts. Driven by curiosity and learning by doing.",
   education: [
     {
-      "school": "Kashmir University",
-      "degree": "Bachelors in Computer Application",
-      "startYear": "2022-10-01",
-      "endYear": "2025-07-01"
+      school: "Multimedia University of Kenya",
+      degree: "BSc in Computer Science (or related IT field)",
+      startYear: "2022-09-01",
+      endYear: "2026-07-01"
     },
   ],
   workExperience: [
     {
-      "company": "Techflare",
-      "position": "Full Stack Developer",
-      "description": "Worked as a full stack developer on multiple client projects, focusing on building scalable web applications using modern technologies. Collaborated with cross-functional teams to deliver high-quality solutions.",
-      "keyAchievements": "Successfully delivered 5+ client projects with 100% satisfaction rate\nReduced application load time by 40% through optimization techniques",
-      "startYear": "2023-10-01",
-      "endYear": "2024-03-01"
+      company: "Personal & Open Source Projects",
+      position: "Backend Developer",
+      description: "Developed multiple full-stack applications including a KYC verification API using gRPC and Go, and a debt collection system with React, Next.js, Go, and PostgreSQL.",
+      keyAchievements: "Built scalable Go APIs with PostgreSQL\nDesigned and tested real-time gRPC streaming for face match\nImplemented secure authentication and DB optimization",
+      startYear: "2024-01-01",
+      endYear: "Present"
     },
     {
-      "company": "Techbug",
-      "position": "Frontend Developer Intern",
-      "description": "Contributed to the development of user interfaces for various web applications. Worked closely with senior developers to implement responsive designs and improve user experience.",
-      "keyAchievements": "Developed responsive web interfaces using React and Tailwind CSS\nCollaborated with the design team to implement pixel-perfect UI components",
-      "startYear": "2023-06-01",
-      "endYear": "2023-09-01"
+      company: "Freelance Projects",
+      position: "Software Developer",
+      description: "Worked on contract-based projects involving frontend development with React and backend using Node.js and Python. Helped clients automate manual workflows and integrate with third-party APIs.",
+      keyAchievements: "Delivered 3+ client projects on time and with full satisfaction\nCreated reusable components and clean backend APIs",
+      startYear: "2023-05-01",
+      endYear: "2023-12-01"
     }
   ],
   projects: [
-   
     {
-      "name": "AI Resume Maker",
-      "description": "Developed an intelligent resume builder using Next.js with AI-powered content suggestions, multiple templates, and real-time preview functionality. Integrated with Google's Gemini API for smart content optimization.",
-      "keyAchievements": "Implemented drag-and-drop functionality for section reordering\nIntegrated AI-powered content suggestions using Gemini API",
-      "startYear": "2024-02-20",
-      "endYear": "2024-03-15",
-      "link": "https://github.com/HOTHEAD01TH/free-resume-maker"
+      name: "KYC gRPC Verification API",
+      description: "Developed a face-match KYC system with gRPC in Go. Supports document uploads, streaming video match, external API calls, and PostgreSQL for persistent storage.",
+      keyAchievements: "Built real-time gRPC streaming with image matching\nAdded simulated API calls and secure file handling",
+      startYear: "2025-07-01",
+      endYear: "2025-07-10",
+      link: "https://github.com/yourusername/grpc-kyc-api"
     },
     {
-      "name": "Paytm",
-      "description": "Created a monorepo-based banking application using Express and AWS services. Implemented microservices architecture with features like transaction management, account services, and real-time notifications.",
-      "keyAchievements": "Designed and implemented microservices architecture using Express\nImplemented real-time transaction notifications using AWS SNS",
-      "startYear": "2024-03-20",
-      "endYear": "2024-04-15",
-      "link": "https://github.com/HOTHEAD01TH/paytm-advanced"
+      name: "Debt Collector System",
+      description: "A full-stack credit collection platform using Next.js, Golang, and PostgreSQL. Supports account tracking, debt reminders, and admin analytics.",
+      keyAchievements: "Built from scratch using Go backend and React frontend\nImplemented JWT auth and PostgreSQL relations",
+      startYear: "2025-06-01",
+      endYear: "2025-07-01",
+      link: "https://github.com/yourusername/debt-collector"
     }
   ],
   skills: [
     {
       title: "Technical Skills",
       skills: [
-        "React", "Next.js", "TypeScript", "Tailwind CSS", "MongoDB", "PostgreSQL", 
-        "Express", "Python", "Java", "Docker", "AWS", "Kubernetes", "Jenkins",
-        "Firebase", "Redis", "Node.js", "Git", "REST API"
+        "Go", "JavaScript", "TypeScript", "React", "Next.js", "PostgreSQL",
+        "MongoDB", "Node.js", "gRPC", "Python", "Firebase", "REST API",
+        "Git", "Docker", "Linux", "HTML/CSS", "Bash"
       ]
     },
     {
       title: "Soft Skills",
       skills: [
-        "Collaboration", "Problem-solving", "Communication", "Time management", "Result-oriented"
+        "Problem-solving", "Time management", "Teamwork", "Self-learning", "Adaptability"
       ]
     },
     {
       title: "Additional Skills",
       skills: [
-        "CI/CD", "Microservices", "System Design", "Cloud Architecture"
+        "Web Security", "System Design", "CI/CD Concepts", "API Design", "Smart Contracts (Solidity)"
       ] 
     }
   ],
   languages: [
     "English",
-    "Hindi",
-    "Urdu",
-    "Kashmiri",
+    "Swahili",
   ],
   certifications: [
     {
-      name: "Java and Object-Oriented Programming",
-      issuer: "University of Pennsylvania"
+      name: "AI & Machine Learning with Python",
+      issuer: "Multimedia University (Course-based project)"
     },
     {
-      name: "Introduction to Cloud Computing",
-      issuer: "IBM"
+      name: "Introduction to Blockchain Development",
+      issuer: "Self-paced learning (e.g., buildspace or similar)"
     },
     {
-      name: "Full Stack Development",
-      issuer: "john hopkins university"
-    },
-    {
-      name: "AI Primer Course",
-      issuer: "emly labs"
+      name: "gRPC with Go",
+      issuer: "Udemy / YouTube Course"
     }
   ],
 };
