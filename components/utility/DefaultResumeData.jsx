@@ -8,15 +8,15 @@ const DefaultResumeData = {
   socialMedia: [
     {
       socialMedia: "Github",
-      link: "https://github.com/yourusername",
+      link: "https://github.com/Allan-Kipkemei",
     },
     {
       socialMedia: "LinkedIn",
-      link: "https://linkedin.com/in/yourusername",
+      link: "https://linkedin.com/in/allan-kipkemei",
     },
     {
       socialMedia: "Website",
-      link: "https://yourportfolio.com",
+      link: "https://allan-kipkemei.dev", // Replace with your actual website
     },
   ],
   summary: "A passionate Software Developer focused on building scalable, secure, and efficient web applications. With a growing interest in security development, Web3, and backend architecture, Allan enjoys building full-stack solutions and experimenting with Go, PostgreSQL, gRPC, and smart contracts. Driven by curiosity and learning by doing.",
