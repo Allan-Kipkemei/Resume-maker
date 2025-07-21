@@ -5,10 +5,10 @@
 
 
 
-<p align="center">
+<!--<p align="center">
   <img src="preview.png" width="45%" />
   <img src="preview2.png" width="45%" />
-</p>
+</p>  -->
 
 <!-- GitAds-Verify: 3NQ7U162UFM33NVZSY8M3IPHVI14UPSE -->
 
