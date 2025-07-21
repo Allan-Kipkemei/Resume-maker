@@ -2,8 +2,6 @@
 
 ### A modern, AI-powered, ATS-optimized resume builder featuring professionally designed templates and smart content suggestions.
 
-## GitAds Sponsored
-[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=hothead01th/free-resume-maker@github)](https://gitads.dev/v1/ad-track?source=hothead01th/free-resume-maker@github)
 
 
 
@@ -83,10 +81,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
-## 🙏 Acknowledgments
 
-- Special thanks to the open-source community and [Github Projects](https://x.com/githubprojects)
-- Inspired by modern recruitment needs and ATS requirements
 
 ## ⚠️ Important Note
 
