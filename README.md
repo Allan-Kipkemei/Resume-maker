@@ -3,8 +3,12 @@
 ### A modern, AI-powered, ATS-optimized resume builder featuring professionally designed templates and smart content suggestions.
 
 
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
 
 
+`
 <!--<p align="center">
   <img src="preview.png" width="45%" />
   <img src="preview2.png" width="45%" />
